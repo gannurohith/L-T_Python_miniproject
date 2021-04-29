@@ -1,4 +1,4 @@
-name: Python application
+name: Python hangman_game
 
 on:
   push:
