@@ -6,4 +6,5 @@
 - None
 ## How to run the code
 - Run the hangman.py code.
-- Start to guess the word.
+- Start guessing the word within the given chances.
+- Else player will be out of the game.
