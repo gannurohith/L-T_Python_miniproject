@@ -1,4 +1,7 @@
-# Python miniproject
+# 291751_Python miniproject
+# personal information 
+- Name :- Gannu Rohith
+- SFID:-291751
 # Game of hangman 
 ## Title
 - This project contains a simple python code to play terminal-based hangman game.
